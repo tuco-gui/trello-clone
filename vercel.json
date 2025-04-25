@@ -1,0 +1,11 @@
+{
+  "framework: "nextjs",
+  "buildCommand": "papn build",
+  "installCommand": "popm install",
+  "outputDirectory:
+  "next",
+  "regions": ("sfol"),
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
